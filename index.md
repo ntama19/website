@@ -2,4 +2,4 @@
 
 ## Another Link
 
-My website is at this [link] (https://ntama19.github.io/website)
+My website is at this [link](https://ntama19.github.io/website)
